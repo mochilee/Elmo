@@ -1,5 +1,6 @@
 # discord_bot
 功能:
+股票搜尋 並返回技術圖
 chatgpt api
 根據特定對話回應
 傳送貼圖
